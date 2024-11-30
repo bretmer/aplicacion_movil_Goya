@@ -10,7 +10,7 @@
 Base de datos: bd_agencias_de_turismos
 Descripcion:
 Integrantes:
--
+-Condori Huamantoma Bretmer
 -
 -
 -
